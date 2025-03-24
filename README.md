@@ -34,3 +34,7 @@ This is a **responsive personal portfolio website** designed to showcase profess
 1. Clone the repository:  
    ```bash
    git clone [https://github.com/your-username/your-repo.git](https://ahmed-khalaf1223.github.io/Website-template/)
+
+   💡 Created by Ahmed Khalaf – LinkedIn Profile www.linkedin.com/in/ ahmed-khalaf-25a9ba2b4
+
+📧 Feel free to reach out via email: ahmedkhalaf1223@gmail.com
